@@ -5,6 +5,7 @@
 ![Java](https://skillicons.dev/icons?i=java)
  
 </div>
+
 ## 📌 Sobre o projeto
  
 Resolução do problema **1001 - Extremely Basic** do [URI Online Judge / beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1001), adaptado por Neilor Tonin.
@@ -61,7 +62,3 @@ echo -e "10\n9" | java Main
  
 [![GitHub](https://img.shields.io/badge/GitHub-kevinhsdev-181717?style=flat&logo=github)](https://github.com/kevinhsdev)
  
-<div align="center">
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let's%20Code!&fontSize=20&fontColor=ffffff)
- 
-</div>
