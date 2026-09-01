@@ -1,0 +1,67 @@
+<div align="center">
+
+![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen)
+ 
+![Java](https://skillicons.dev/icons?i=java)
+ 
+</div>
+## 📌 Sobre o projeto
+ 
+Resolução do problema **1001 - Extremely Basic** do [URI Online Judge / beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1001), adaptado por Neilor Tonin.
+ 
+O programa lê duas variáveis inteiras, **A** e **B**, soma seus valores em uma variável **X** e imprime o resultado no formato `X = <valor>`.
+ 
+## 🎯 Entrada e Saída
+ 
+**Entrada:** dois números inteiros (A e B), um por linha.
+ 
+**Saída:** a letra `X` maiúscula, seguida de espaço, sinal de igual, espaço e o valor da soma, com quebra de linha ao final.
+ 
+## 💻 Demonstração
+ 
+```
+Entrada:
+10
+9
+ 
+Saída:
+X = 19
+```
+ 
+```
+Entrada:
+-10
+4
+ 
+Saída:
+X = -6
+```
+ 
+```
+Entrada:
+15
+-7
+ 
+Saída:
+X = 8
+```
+ 
+> ⚠️ Não esquecer o `\n` (endline) no final da saída, ou o judge retorna "Presentation Error".
+ 
+## ▶️ Como executar
+ 
+```bash
+git clone https://github.com/kevinhsdev/<nome-do-repo>.git
+cd <nome-do-repo>
+javac Main.java
+echo -e "10\n9" | java Main
+```
+ 
+## 👤 Autor
+ 
+[![GitHub](https://img.shields.io/badge/GitHub-kevinhsdev-181717?style=flat&logo=github)](https://github.com/kevinhsdev)
+ 
+<div align="center">
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let's%20Code!&fontSize=20&fontColor=ffffff)
+ 
+</div>

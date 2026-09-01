@@ -1,0 +1,42 @@
+# 🚗 1016 - Distance
+
+![Beecrowd](https://img.shields.io/badge/Beecrowd-1016-blue)
+![Status](https://img.shields.io/badge/status-Accepted-brightgreen)
+
+## 📋 Enunciado
+
+Two cars (X and Y) leave in the same direction. The car X leaves with a constant speed of 60 km/h and the car Y leaves with a constant speed of 90 km/h.
+
+In one hour (60 minutes) the car Y can get a distance of 30 kilometers from the X car, in other words, it can get away one kilometer for each 2 minutes.
+
+Read the distance (in km) and calculate how long it takes (in minutes) for the car Y to take this distance in relation to the other car.
+
+## 📥 Input
+
+O arquivo de entrada contém 1 valor inteiro (distância em km).
+
+## 📤 Output
+
+Imprimir o tempo necessário seguido da mensagem `"minutos"`.
+
+## 🧪 Exemplos
+
+| Input | Output |
+|-------|--------|
+| 30 | 60 minutos |
+| 110 | 220 minutos |
+| 7 | 14 minutos |
+
+## 💡 Lógica utilizada
+
+A cada 2 minutos, o carro Y se distancia 1 km do carro X. Logo, o tempo necessário é a distância multiplicada por 2.
+
+```
+tempo = distancia * 2
+```
+
+## 🔗 Fonte
+
+```
+beecrowd.com.br/judge/pt/problems/view/1016
+```
