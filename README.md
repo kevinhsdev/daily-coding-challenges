@@ -24,7 +24,7 @@ Cada pasta representa um tema. Dentro dela, um arquivo por exercício, nomeado c
 
 | Tema | Exercícios resolvidos |
 |------|------------------------|
-| Arrays | 2 |
+| Arrays | 1 |
 | Strings | 0 |
 | Recursão | 0 |
 | Matemática | 1 |
